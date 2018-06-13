@@ -20,7 +20,7 @@ body{
 
 }
 
-header#mainHeader{
+/*header#mainHeader{
 	background-color: violet;
 	width: 20vw;
 	height: 100vh;
@@ -55,32 +55,34 @@ header#mainHeader > nav > ul > li > a {
 header#mainHeader > nav > ul > li > a:hover {
 	background-color: blue;
 	color:white;
-}
-main#wrapper{
-	background-color: gray;
-	margin-left: 20vw;
-	color:white;
-}
+}*/
 
-section#home{
-	background-color: red;
-	height: 100vh;
-	position: relative;
-}
+/*main#wrapper{
+	background-color: gray;*/
+/*	margin-left: 20vw;*/
+/*	color:white;
+}*/
 
-section#home > div {
-	border: 3px solid white;
-	width: 50%;
-	padding: 25px;
+/*section#home{
+	background-color: red;*/
+	/*height: 100vh;*/
+	/*position: relative;
+}
+*/
+/*section#home > div {
+	border: 3px solid white;*/
+	/*width: 50%;*/
+	/*padding: 25px;
 	text-align: center;
-	position: absolute;
-	top:50%;
+	/*position: absolute;*/
+	/*top:50%;
 	left: 50%;
-	transform: translate(-50%, -50%);
-}	
+	transform: translate(-50%, -50%);*/
+	/*height: 100%;
+}	*/
 
 
-section#about{
+/*section#about{
 	background-color: orange;
 	min-height: 50vh;
 }
@@ -89,8 +91,8 @@ section#about > p {
 	padding: 0 25px 25px;
 }	
 
-
-section#services{
+*/
+/*section#services{
 	background-color: yellow;
 	min-height: 75vh;
 	color: black;
@@ -108,15 +110,15 @@ section#services > div {
 
 section#services > div > img {
 	width: 100%;
-}	
+}	*/
 
-section#projects{
-	background-color: green;
+/*section#projects{
+	background-color: green;*/
 /*	min-height: 100vh;*/
-	padding: 0 15px 15px;
-}
+	/*padding: 0 15px 15px;
+}*/
 
-section#projects >div {
+/*section#projects >div {
 	border: 2px solid white;
 	padding: 15px;
 	width: 25%;
@@ -125,39 +127,39 @@ section#projects >div {
 
 section#projects >div >img{
 	width: 100%
-}
+}*/
 
-section#contact{
+/*section#contact{
 	background-color: gray;
 	height: 50vh;
-}
+}*/
 
-section#contact > p {
+/*section#contact > p {
 	margin: 0 25px;
-}	
+}	*/
 
-footer#mainFooter{
-	background-color: maroon;
+/*footer#mainFooter{
+	background-color: maroon;*/
 	/*padding: 15px;
 	text-align: center;*/
-}
+/*}
 
 footer#mainFooter > div#left {
 	width: 50%;
 	/*display:inline-block;*/
-	float: left;
+	/*float: left;
 	font-size: 12px;
 	padding: 22px;
-}
+}*/
 
-footer#mainFooter > div#right {
-	width: 50%;
+/*footer#mainFooter > div#right {
+	width: 50%;*/
 	/*display:inline-block;*/
-	float: left;
+	/*float: left;
 	padding: 30px;
-}
+}*/
 
-footer#mainFooter > div#right > ul {
+/*footer#mainFooter > div#right > ul {
 	list-style-type: none;
 	text-align: right;
 }
@@ -167,7 +169,7 @@ footer#mainFooter > div#right > ul > li {
 	padding: 5px;
 }
 
-
+*/
 .clear:after {
 	content: "";
 	display: block;
